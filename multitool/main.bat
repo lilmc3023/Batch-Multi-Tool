@@ -1,5 +1,5 @@
 @echo off
-title MultiTool - by Ebola Man
+title MultiTool - by Lil
 chcp 65001 >nul
 cd files
 color 5
